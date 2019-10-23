@@ -4,14 +4,191 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>RaquelParamo.github.io</title>
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles2.css">￼
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">￼
+  
 </head>
 <body>
-    <main>
-        <header>
-            <h1>Raquel Páramo</h1>
-            <h2>Fullstack Developer</h2>
-        </header>
-    </main>
+    <header class='header'>
+        <h1 class='header__title'>Raquel Páramo</h1>
+        <h2 class='header__subtitle'>Graphic Designer & Front-end Developer</h2>
+       
+        <span class="menu__btn">Menu</span>
+        <nav class="header__nav">
+          <a href="#home">Home</a>
+          <a href="#tecnologia">Skills</a>
+          <a href="#portfolio">Portfolio</a>
+          <a href="#contacto">Contact</a>
+        </nav>
+      </header>
+
+        <nav class="smartphone-viewport">
+                <div class="float-button" id="float-button"></div>
+                <nav class="circular-menu" id="circular-menu">
+                  <ul>
+                    <li><a href="#home" class="icon-home" href="#"><img src="imagenes/home.svg" style="width:30px;height:auto;"></a></li>
+                    <li><a href="#tecnologia" class="icon-skills" href="#"><img src="imagenes/skills.png" style="width:30px;height:auto;"></a></li>
+                    <li><a href="#portfolio" class="icon-portfolio" href="#"><img src="imagenes/portfolio.png" style="width:30px;height:auto;"></a></li>
+                    <li><a href="#contacto" class="icon-contact" href="#"><img src="imagenes/open-envelope.png"  style="width:30px;height:auto;"></a></li>
+                  </ul>
+        </nav></nav>
+        <main id='container'>        
+          <article id='home'>
+            <section class="description">
+              <h1>Raquel Páramo</h1>
+              <h2>Graphic Designer & Front-end Developer</h2>
+              <figure class='perfil__figure'>
+                  <img src="imagenes/fotoperfil.jpeg" alt="mi foto de perfil">
+                  <figcaption>Raquel Páramo</figcaption>
+                </figure>
+              
+                <p>Highly efficient and detail-orientated Graphic Designer with current knowledge and experience in Wordpress web design and creation of contents.
+                My work consists of creating marketing materials including htmls/css mailing and landing pages as well as creating static designs for web pages.
+                Spanish native speaker and have really good English skills.</p>
+              <div>
+
+              </div>
+            </section>
+          </article>
+          <article id='tecnologia'>
+              <div class='box'>
+                <figure class='box__figure'>
+                  <img src="imagenes/Adobe Illustrator.svg" alt="Adobe Illustrator">
+                  <figcaption>Adobe Illustrator</figcaption></figure>
+              </div>
+              <div class='box'>
+                <figure class='box__figure'>
+                  <img src="imagenes/Adobe Photoshop-01.svg" alt="Adobe Photoshop">
+                  <figcaption>Adobe Photoshop</figcaption></figure>
+              </div>
+              <div class='box'>
+                  <figure class='box__figure'>
+                  <img src="imagenes/Adobe InDesign-01.svg" alt="Adobe Indesign">
+                  <figcaption>Adobe Indesign</figcaption></figure>
+              </div>
+              <div class='box'>
+                  <figure class='box__figure'>
+                      <img src="imagenes/Adobe Premiere-01.svg" alt="Adobe Premiere">
+                      <figcaption>Adobe Premiere</figcaption></figure>
+              </div>
+              <div class='box'>
+                  <figure class='box__figure'>
+                      <img src="imagenes/Wordpress-Logo-01.svg" alt="Wordpress">
+                      <figcaption>Wordpress</figcaption></figure>
+              </div>
+              <div class='box'>
+                  <figure class='box__figure'>
+                      <img src="imagenes/html5.svg" alt="HTML5">
+                      <figcaption>HTML5</figcaption></figure>
+              </div>
+              <div class='box'>
+                  <figure class='box__figure'>
+                      <img src="imagenes/css3-01.svg" alt="CSS3">
+                      <figcaption>CSS3</figcaption></figure>
+              </div>
+              <div class='box'>
+                  <figure class='box__figure'>
+                      <img src="imagenes/Unofficial_JavaScript_logo_2-01.svg" alt="Adobe Illustrator">
+                      <figcaption>JavaScript</figcaption></figure>
+              </div>
+            </article>
+            <article id='portfolio'>
+              	<div class="slideshow-container">
+                    <div class="mySlides fade">
+                      <div class="numbertext">1 / 5</div>
+                      <img src="imagenes/Movewatts-presentation-768x680.jpg" style="width:100%">
+                      <div class="text">Profesional Presentation</div>
+                    </div>
+                  
+                    <div class="mySlides fade">
+                      <div class="numbertext">2 / 5</div>
+                      <img src="imagenes/Movewatts-landing-page-design-01-560x560.jpg" style="width:100%">
+                      <div class="text">Landing Page Design</div>
+                    </div>
+                  
+                    <div class="mySlides fade">
+                      <div class="numbertext">3 / 5</div>
+                      <img src="imagenes/Folleto_turismo_Tourism_Brochure-560x560.jpg" style="width:100%">
+                      <div class="text">Tourism Brochure</div>
+                    </div>
+                    <div class="mySlides fade">
+                        <div class="numbertext">4 / 5</div>
+                        <img src="imagenes/deseño_web_Madrid-1-560x560.png" style="width:100%">
+                        <div class="text">Responsive Web Design</div>
+                      </div>
+                      <div class="mySlides fade">
+                          <div class="numbertext">5 / 5</div>
+                          <img src="imagenes/mockup-smartphone-paulino-560x560.png" style="width:100%">
+                          <div class="text">Responsive Web Design</div>
+                        </div>
+                  
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                  </div>
+                  <br>
+                  
+                  <div style="text-align:center">
+                    <span class="dot" onclick="currentSlide(1)"></span> 
+                    <span class="dot" onclick="currentSlide(2)"></span> 
+                    <span class="dot" onclick="currentSlide(3)"></span>
+                    <span class="dot" onclick="currentSlide(4)"></span> 
+                    <span class="dot" onclick="currentSlide(5)"></span> 
+                  </div>
+                  </div>
+                 
+            
+                  
+            </article>
+            <article id='contacto'>
+                <form>
+                    <p><label for="nombre" style="color: white">Nombre</label></p>
+                        <input name="nombre" type="text" placeholder="Introduzca su nombre" required>
+                    <p><label for="apellidos"style="color: white">Apellidos</label></p>
+                        <input name="apellidos" type="text" placeholder="Introduzca sus apellidos" required>
+                    <p><label for="empresa" style="color: white">Empresa</label></p>
+                        <input type="text" placeholder="texto" required>
+                    <p><label for="email" style="color: white">E-mail</label></p>
+                        <input name="email" type="email" placeholder="ejemplo@ejemplo.com" required>
+                    <p><label for="teléfono" style="color: white">Teléfono</label></p>
+                        <input type="tel" name="teléfono" placeholder="Teléfono">
+                    <p><label for="asunto"style="color: white">Asunto</label></p>
+                        <textarea name="" id="" cols="30" rows="10" placeholder="Su texto aquí"></textarea>
+                    <p><label for="Tipo de contrato"style="color: white">Tipo de contrato</label></p>
+                        <select name="Tipo de contrato" required>
+                            <option value="Temporal">Temporal</option>
+                            <option value="Indefinido" selected>Indefinido</option> 
+                            <option value="Freelancer">Freelancer</option>
+                            <option value="Otro">Otro</option>
+                        </select>
+                    <p><label for="salario" style="color: white">Salario</label></p>
+                       <span style="color: white">Número (min 24.000€, max 30.000€)</span> : <input type="number" name="number_control" min="20.000" max="30.000" value="20.000" />
+                    <p><button>Enviar</button></p>
+            
+            
+                </form>
+
+            </article>
+            <footer>
+                <div class="boxrrss">
+                  <figure class="boxrrssfigure"><a href="https://behance.net/raquelparamo"> <img src="imagenes/behance-1-01.svg"></a></figure>
+                </div>
+                <div class="boxrrss">
+                  <figure class="boxrrssfigure"><a href="https://es.linkedin.com/in/raquel-paramo-dise%C3%B1o"><img src="imagenes/linkedin-01.svg"></a></figure>
+                </div>
+                <div class="boxrrss">
+                  <figure class="boxrrssfigure"><a href="https://www.instagram.com/missdisenos/"><img src="imagenes/instagram-01.svg"></a></figure>
+                </div>
+                <div class="boxrrss">
+                  <figure class="boxrrssfigure"><a href="https://www.raquelparamo.es/"><img src="imagenes/web-01.svg"></a></figure>
+                </div>
+              </div>
+            </footer>
+              </main>
+              
+              <script src="js/javasmenu.js"></script>
+              <script src="js/slide.js"></script>
+              <script src="js/javascript.js"></script>
+           
 </body>
 </html>

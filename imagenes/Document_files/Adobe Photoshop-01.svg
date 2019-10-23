@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 566.9 566.9" style="enable-background:new 0 0 566.9 566.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9B0094;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M409.1,306.1c7.1,6.6,10.7,15.9,10.7,27.9c0,13-5,24.2-15,33.7c-10,9.3-24.8,14-44.3,14
+			c-17.5,0-31.4-4-41.8-12.1c-10.2-7.7-17-18.3-20.5-32l35-5.8c1.5,7.3,4.4,12.9,8.7,16.7c4.4,3.8,10.8,5.7,19.2,5.7
+			c8.7,0,15.4-1.8,20-5.5c2.7-2.4,4.1-5.6,4.1-9.9c0-2.7-0.7-5.1-2.2-7.1c-1.8-1.6-5.5-3.3-11.2-4.9c-27.9-6.8-45.6-13-53.1-18.6
+			c-10.2-7.5-15.3-18.1-15.3-31.8c0-12,4.4-22.2,13.1-30.6c8.9-8.6,22.7-12.9,41.3-12.9c18,0,31.3,3.2,39.6,9.6
+			c8.7,6.2,14.8,15.6,18.1,28.2l-32.6,6.6c-1.3-5.5-3.8-9.7-7.6-12.6c-4-3.1-9.7-4.6-17-4.6c-9,0-15.3,1.5-19.2,4.4
+			c-2.6,1.6-3.8,4.2-3.8,7.7c0,2.6,1.1,4.8,3.3,6.6c3.1,2.6,13.7,6.1,31.7,10.7C388.9,293.8,401.8,299.4,409.1,306.1z"/>
+	</g>
+	<path class="st0" d="M275.9,204.6c-6.9-9.9-15.5-16.2-25.7-19.2c-6.6-1.8-21-2.7-43.2-2.7h-57.7v195.7h36.1v-73.9h23.8
+		c16.4,0,28.8-0.9,37.2-2.7c6.6-1.6,12.9-4.7,19.2-9c6.2-4.7,11.3-11.3,15.3-19.7c3.8-8.2,5.7-18.3,5.7-30.4
+		C286.6,227.1,283,214.4,275.9,204.6z M245.3,258.5c-2.9,4.2-6.8,7.5-11.5,9.9c-4.7,1.8-14.3,2.7-28.7,2.7h-19.7v-55.6h17.5
+		c12.9,0,21.5,0.5,25.7,1.6c6,1.1,10.9,3.9,14.8,8.5c4.2,4.6,6.3,10.3,6.3,17.3C249.7,248.7,248.2,253.9,245.3,258.5z"/>
+	<g>
+		<path class="st0" d="M284.4,567.4c-37.6,0-74.1-7.2-108.4-21.4c-34.3-14.2-65.2-35-92-61.8c-26.8-26.8-47.6-57.8-61.7-92.1
+			C8.1,357.9,0.9,321.4,0.9,283.7c0-37.7,7.2-74.2,21.4-108.4C36.4,141,57.2,110,84,83.2c26.8-26.8,57.8-47.7,92-61.8
+			C210.2,7.2,246.7,0,284.4,0s74.2,7.2,108.4,21.4c34.2,14.2,65.2,35,92,61.8c26.8,26.8,47.6,57.8,61.8,92.1
+			c14.2,34.3,21.4,70.8,21.4,108.4s-7.2,74.1-21.4,108.4c-14.2,34.3-35,65.3-61.8,92.1C458,511,427,531.8,392.8,546
+			C358.5,560.2,322.1,567.4,284.4,567.4z M284.4,25.9c-34.3,0-67.4,6.5-98.4,19.4c-31.1,12.9-59.2,31.8-83.6,56.2
+			c-24.4,24.4-43.3,52.6-56.1,83.7c-12.9,31.1-19.4,64.2-19.4,98.6c0,34.3,6.5,67.5,19.4,98.5c12.9,31.1,31.7,59.3,56.1,83.7
+			c24.4,24.4,52.5,43.3,83.6,56.2c31.1,12.9,64.2,19.4,98.4,19.4c34.2,0,67.3-6.5,98.4-19.4c31.1-12.9,59.2-31.8,83.6-56.2
+			c24.4-24.4,43.3-52.5,56.1-83.7c12.9-31.1,19.4-64.3,19.4-98.6s-6.5-67.4-19.4-98.5l0,0c-12.9-31.1-31.8-59.3-56.1-83.7
+			c-24.4-24.4-52.5-43.3-83.6-56.2C351.8,32.4,318.7,25.9,284.4,25.9z"/>
+	</g>
+</g>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></svg>
