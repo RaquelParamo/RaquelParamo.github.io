@@ -246,6 +246,10 @@ body {
     position:relative;
     
   }
+  .box img{
+    height: 70px;
+    width: 70px;
+  }
   
   #contacto {
     margin: auto;
