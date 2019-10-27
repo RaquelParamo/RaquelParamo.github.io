@@ -13,7 +13,7 @@ body {
     background-size: cover;
     display: flex;
     min-height: 100vh;
-    weight: 100%;
+    width: 100%;
 }
   .header {
     display:none;
